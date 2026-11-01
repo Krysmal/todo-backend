@@ -1,0 +1,13 @@
+{
+    "name": "todo-app/backend",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Krysmal",
+            "email": "malinowskizxcvbnm@gmail.com"
+        }
+    ],
+    "require": {
+        "mongodb/mongodb": "^2.5"
+    }
+}
